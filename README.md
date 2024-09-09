@@ -8,7 +8,7 @@ Aras Innovator 系统页面中文汉化包
 
 Project | Aras
 --------|------
-[v1.0.0](https://github.com/tengzhuang1/zh-CN_LanguagePack/releases/tag/v1.0.0) | Aras 2023 Release Build 14.0.9.36244
+[v1.0.0](https://github.com/tengzhuang2/zh-CN_LanguagePack/releases/tag/v1.0.0) | Aras 2023 Release Build 14.0.9.36244
 
 ## 安装
 
